@@ -41,17 +41,17 @@ I test the places where systems meet — enterprise integrations, APIs, and data
 
 > Each project has a README, a CI badge, and a run summary.
 
-### [api-integration-test-suite](https://github.com/YOUR-USERNAME/api-integration-test-suite) ![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+### [api-integration-test-suite](https://github.com/YOUR-USERNAME/api-integration-test-suite) 
 Shows how I test a system-to-system integration, using public mock APIs.
 - Source → target field mapping and checks that every record arrives correctly
 - Negative tests, schema and contract checks, and retry/idempotency cases
 - **Stack:** Postman · Newman · GitHub Actions · HTML reports
 
-### [data-migration-validator](https://github.com/YOUR-USERNAME/data-migration-validator) ![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+### [data-migration-validator](https://github.com/YOUR-USERNAME/data-migration-validator) 
 Python tool that compares record counts, field values, and checksums between a source dataset and a target dataset.
 - **Stack:** Python · pytest · SQLite · pandas
 
-### [playwright-e2e-framework](https://github.com/YOUR-USERNAME/playwright-e2e-framework) ![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+### [playwright-e2e-framework](https://github.com/YOUR-USERNAME/playwright-e2e-framework) 
 End-to-end UI suite with page objects, data-driven tests, and parallel runs.
 - **Stack:** Playwright · TypeScript · GitHub Actions · Allure
 
