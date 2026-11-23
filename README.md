@@ -70,4 +70,4 @@ Sample test plan, traceability matrix, bug reports, and a risk-based test strate
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](mailto:YOUR-EMAIL) · [Resume](YOUR-RESUME-LINK)
+[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](brandon.walker1345@gmail.com) · [Resume](YOUR-RESUME-LINK)
