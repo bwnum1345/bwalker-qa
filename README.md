@@ -70,4 +70,4 @@ Sample test plan, traceability matrix, bug reports, and a risk-based test strate
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/brandon-walker-csm/) · [Email](brandon.walker1345@gmail.com) · [Resume](C:\Users\bwnum\Downloads\Brandon_Walker_Resume_SDET_Automation.docx)
+[LinkedIn](https://www.linkedin.com/in/brandon-walker-csm/) · [Email](brandon.walker1345@gmail.com) · [Resume](W:\Brandon_Walker_Resume_SDET_Automation.docx)
